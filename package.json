@@ -1,10 +1,14 @@
 {
   "dependencies": {
+    "@motify/interactions": "^0.16.1",
+    "@motify/skeleton": "^0.16.1",
     "expo": "~42.0.0",
+    "expo-linear-gradient": "~9.2.0",
     "moti": "^0.11.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-gesture-handler": "^2.0.0",
     "react-native-reanimated": "~2.2.0",
     "react-native-web": "~0.13.12"
   },
